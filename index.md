@@ -49,3 +49,9 @@ while b < 10:
     print(b)
     a, b = a, a + b
 ```
+
+## Add a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
